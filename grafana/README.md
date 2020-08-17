@@ -1,5 +1,7 @@
 ## grafana-kubernetes
 
+## To create Configmap
+    kubectl apply -f config-map.yaml
 ## To create Deployment
     kubectl apply -f deployment.yaml
 ## To create Service
